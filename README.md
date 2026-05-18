@@ -1,3 +1,4 @@
+<img width="392" height="874" alt="PICT1" src="https://github.com/user-attachments/assets/29a2790c-155b-492d-a0cd-e63bda6b4323" />
 
 
 # Dessert Catalog App
@@ -7,14 +8,9 @@ Aplikasi Android sederhana yang menampilkan katalog dessert menggunakan **Recycl
 ---
 
 ## Screenshot
-
-<p align="center">
-  <img src="app/src/main/res/drawable/PICT1.jpg" width="250" alt="Halaman Utama"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/src/main/res/drawable/PICT2.jpg" width="250" alt="Daftar Katalog"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/src/main/res/drawable/PICT3.jpg" width="250" alt="Detail Item"/>
-</p>
+<img width="392" height="877" alt="PICT3" src="https://github.com/user-attachments/assets/822d78c4-38cc-4efb-bf7b-f31c1f1c9394" />
+<img width="391" height="878" alt="PICT2" src="https://github.com/user-attachments/assets/e842fcc9-2d9f-444d-a6a7-e4c40e2429f4" />
+<img width="392" height="874" alt="PICT1" src="https://github.com/user-attachments/assets/784a114e-5b89-4890-b226-2b4a5b0b8098" />
 
 ---
 
