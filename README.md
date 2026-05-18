@@ -1,4 +1,12 @@
 
+## Identitas
+
+**Benita Aryani**  
+NIM: 2410501023  
+Kelas: A
+
+---
+
 # Dessert Catalog App
 
 Aplikasi Android sederhana yang menampilkan katalog dessert menggunakan **RecyclerView**. Proyek ini dibuat untuk mempelajari implementasi RecyclerView dengan Adapter dan ViewHolder pattern.
