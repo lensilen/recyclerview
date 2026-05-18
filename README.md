@@ -1,5 +1,3 @@
-<img width="392" height="874" alt="PICT1" src="https://github.com/user-attachments/assets/29a2790c-155b-492d-a0cd-e63bda6b4323" />
-
 
 # Dessert Catalog App
 
